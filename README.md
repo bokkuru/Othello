@@ -1,2 +1,2 @@
-# Othello
-This is repository for Othello
+# Fyne
+This is repository for fyne
